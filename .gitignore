@@ -1,0 +1,7 @@
+# ignore secrets
+*secrets
+secrets*
+
+#  ignore configuration 
+config
+*config 
